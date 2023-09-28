@@ -2,7 +2,6 @@
 We create a simple web server and serve static pages 
 
 ## Server Roadmap
----
 
 1. **Server**
     1. `/` --> index.html
